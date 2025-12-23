@@ -1,22 +1,22 @@
 # sangjun-oh-cv
-Academic CV of Sangjun Oh, undergraduate student at Sungkyunkwan University (Chemical Engineering &amp; Systems Management Engineering)
-👋 Hi, I'm Sangjun Oh
-
-🎓 Undergraduate Student at Sungkyunkwan University (SKKU)
-📍 Suwon, South Korea 🇰🇷
+Academic CV of Sangjun Oh, undergraduate student at Sungkyunkwan University (Chemical Engineering &amp; Systems Management Engineering)\
+👋 Hi, I'm Sangjun Oh\
+\
+🎓 Undergraduate Student at Sungkyunkwan University (SKKU)\
+📍 Suwon, South Korea 🇰🇷\
 📧 Email: osj5088@naver.com\
-📞 Phone: +82-10-9452-5089
+📞 Phone: +82-10-9452-5089\
 
-🧾 Summary
-
+🧾 Summary\
+\
 Bachelor student majoring in Chemical Engineering and Systems Management Engineering with strong interests in process optimization, process design, smart factory systems, and machine learning.
-Motivated to apply data-driven and AI-based approaches to real-world industrial and manufacturing problems.
-
-🎓 Education
-
+Motivated to apply data-driven and AI-based approaches to real-world industrial and manufacturing problems.\
+\
+🎓 Education\
+\
 B.S. in Chemical Engineering, Sungkyunkwan University
 Mar. 2021 – Present
-
+\
 B.S. in Systems Management Engineering, Sungkyunkwan University
 Sep. 2024 – Present
 
