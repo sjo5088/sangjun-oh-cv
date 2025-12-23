@@ -87,6 +87,5 @@ Jun. 2025 – Aug. 2025
 
 ## 📫 Contact
 
-💡 Always open to research opportunities and collaborations.  
 📧 Email: osj5088@naver.com  
 📍 Location: South Korea 🇰🇷  
