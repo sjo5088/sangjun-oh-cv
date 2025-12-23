@@ -4,7 +4,7 @@ Academic CV of Sangjun Oh, undergraduate student at Sungkyunkwan University (Che
 
 🎓 Undergraduate Student at Sungkyunkwan University (SKKU)
 📍 Suwon, South Korea 🇰🇷
-📧 Email: osj5088@naver.com
+📧 Email: osj5088@naver.com\
 📞 Phone: +82-10-9452-5089
 
 🧾 Summary
